@@ -1,0 +1,23 @@
+.deposit:hover {
+  border-color: #079a53;
+}
+.withdraw:hover {
+  border-color: #c40c0c;
+}
+.deposit:focus,
+.deposit:focus-visible {
+  outline: 4px auto #079a53;
+}
+.withdraw:focus,
+.withdraw:focus-visible {
+  outline: 4px auto #c40c0c;
+}
+.amountInput {
+  margin-bottom: 3vh;
+}
+.einzahlung {
+  color: #079a53;
+}
+.auszahlung {
+  color: #c40c0c;
+}
